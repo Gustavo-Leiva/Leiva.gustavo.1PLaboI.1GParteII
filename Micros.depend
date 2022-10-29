@@ -1,0 +1,78 @@
+# depslib dependency file v1.0
+1666389489 source:c:\users\impuestos\documents\personal\utn\ejercicios en codigo c\clase de apoyo\micros\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	"validaciones.h"
+	<string.h>
+	<ctype.h>
+
+1666389509 c:\users\impuestos\documents\personal\utn\ejercicios en codigo c\clase de apoyo\micros\validaciones.h
+
+1666389786 source:c:\users\impuestos\documents\personal\utn\ejercicios en codigo c\clase de apoyo\micros\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"fecha.h"
+
+1666958194 c:\users\impuestos\documents\personal\utn\ejercicios en codigo c\clase de apoyo\micros\fecha.h
+
+1666973367 source:c:\users\impuestos\documents\personal\utn\ejercicios en codigo c\clase de apoyo\micros\empresa.c
+	<stdio.h>
+	<stdlib.h>
+	"empresa.h"
+	"string.h"
+
+1666963734 c:\users\impuestos\documents\personal\utn\ejercicios en codigo c\clase de apoyo\micros\empresa.h
+
+1666995618 source:c:\users\impuestos\documents\personal\utn\ejercicios en codigo c\clase de apoyo\micros\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	"tipo.h"
+	<string.h>
+
+1666963664 c:\users\impuestos\documents\personal\utn\ejercicios en codigo c\clase de apoyo\micros\tipo.h
+
+1666973346 source:c:\users\impuestos\documents\personal\utn\ejercicios en codigo c\clase de apoyo\micros\destino.c
+	<stdio.h>
+	<stdlib.h>
+	"destino.h"
+	<string.h>
+
+1666963704 c:\users\impuestos\documents\personal\utn\ejercicios en codigo c\clase de apoyo\micros\destino.h
+
+1667004704 source:c:\users\impuestos\documents\personal\utn\ejercicios en codigo c\clase de apoyo\micros\main.c
+	<stdio.h>
+	<stdlib.h>
+	"micro.h"
+	"empresa.h"
+	"tipo.h"
+	"destino.h"
+	"viaje.h"
+	"validaciones.h"
+
+1667004084 c:\users\impuestos\documents\personal\utn\ejercicios en codigo c\clase de apoyo\micros\micro.h
+	"empresa.h"
+	"tipo.h"
+
+1667004506 source:c:\users\impuestos\documents\personal\utn\ejercicios en codigo c\clase de apoyo\micros\micro.c
+	<stdio.h>
+	<stdlib.h>
+	"micro.h"
+	"empresa.h"
+	"tipo.h"
+	"validaciones.h"
+	<string.h>
+	<ctype.h>
+	<string.h>
+
+1667001119 source:c:\users\impuestos\documents\personal\utn\ejercicios en codigo c\clase de apoyo\micros\viaje.c
+	<stdio.h>
+	<stdlib.h>
+	"empresa.h"
+	"viaje.h"
+
+1667004261 c:\users\impuestos\documents\personal\utn\ejercicios en codigo c\clase de apoyo\micros\viaje.h
+	"fecha.h"
+	"micro.h"
+	"tipo.h"
+	"destino.h"
+
